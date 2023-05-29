@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author lucka
+ *
+ */
+module ashuiahsuahusa {
+}
